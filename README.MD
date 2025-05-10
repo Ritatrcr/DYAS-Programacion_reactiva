@@ -34,7 +34,7 @@ En esta sección, creé un sistema de notificaciones. El productor envía notifi
 ## Resultados
 
 **Resultado del Ejemplo:**
-![Resultado del Ejemplo](2.implementExample/python/example.png)
+![Resultado del Ejemplo](implementExample/python/example.png)
 
 **Resultado del Sistema de Notificaciones:**
 ![Resultado del Sistema de Notificaciones](createExample/Notificaciones.png)
